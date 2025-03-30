@@ -1,0 +1,9 @@
+prompt_lr: 0.0008 #0.001
+projector_lr: 0.0001
+cross_attention_lr: 0.0001
+dropout: 0
+weight_decay: 0.0001
+batch_size: 9
+project_dim: 32 #128
+n_head: 4
+n_ctx: 4
